@@ -6,8 +6,7 @@ tags: [Linux, 绕过, CTF, WEB]
 comments: true
 author: MK-KM1542
 ---
-
-# Linux命令绕过，以[GXYCTF2019] Ping Ping Ping为例
+一些Linux命令的绕过姿势，做[GXYCTF2019] Ping Ping Ping的笔记
 
 ## 命令联合执行
 
